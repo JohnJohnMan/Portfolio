@@ -30,7 +30,7 @@
 
 ## 🧑‍🤝‍🧑 팀 프로젝트
 
-![MTLogo](https://github.com/user-attachments/assets/d4836fa5-f9e5-4c01-9867-9072436f484f)
+<img src = "https://github.com/user-attachments/assets/d4836fa5-f9e5-4c01-9867-9072436f484f" width="400" height="200" >
 <h2>모아티켓 (More Ticket)</h2>
 이용자 친화적 인터페이스와 티켓 예매 과정을 간소화하여 쉽고 빠르게 예매가 가능하게 만든 웹 서비스
 - Kakao 결제 Api 사용
@@ -38,7 +38,7 @@
 - CSS 구성
 - 기능별 어울리는 페이지 구성
 
-![PMLogo](https://github.com/user-attachments/assets/f63df026-207d-4397-99be-c69be6531103)
+<img src = "https://github.com/user-attachments/assets/f63df026-207d-4397-99be-c69be6531103" width="400" height="200" >
 <h2>스포츠매니저 (SportsManager)</h2>
 비인기 종목 스포츠라도 쉽게 원하는 사람을 매칭하여 운동을 즐길 수 있게 만든 웹 서비스
 - Kakao 결제 Api 사용
