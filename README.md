@@ -19,7 +19,6 @@
 
 - `Java`
 - `Spring Boot` `Spring MVC`
-- `Junit`
 - `Intelli J` `Eclipse` `VS code`
 - `Git`
 
