@@ -42,9 +42,12 @@
 
 ![PMLogo](https://github.com/user-attachments/assets/8a829435-5b24-4cc7-8921-664a891fc2d8)
 
-### 스포츠 매니저(SportsManager
+### 스포츠 매니저(SportsManager)
 비인기 종목 스포츠라도 쉽게 원하는 사람을 매칭하여 운동을 즐길 수 있게 만든 웹 서비스
 - Kakao 결제 Api 사용
 - KakaoMap Api 사용
 - CRUD 기능 개발
 
+## 📬 Contact
+- jjm4248@gmail.com
+- jjm424@naver.com
