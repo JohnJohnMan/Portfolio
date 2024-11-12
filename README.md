@@ -20,7 +20,7 @@
 - `Java`
 - `Spring Boot` `Spring MVC`
 - `Junit`
-- `Intelli J` `Eclipse (STS)` `VS code`
+- `Intelli J` `Eclipse` `VS code`
 - `Git`
 
 ### ㆍDev-ops
