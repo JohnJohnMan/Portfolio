@@ -35,18 +35,20 @@
 
 ![MTLogo](https://github.com/user-attachments/assets/f73907df-3851-47a4-b3d7-c995ada068a8)
 
-### 모아티켓 (More Ticket)
+### 모아티켓 (More Ticket)(2024.09~2024.10)
 이용자 친화적 인터페이스와 티켓 예매 과정을 간소화하여 쉽고 빠르게 예매가 가능하게 만든 웹 서비스
+- 3인 프로젝트중 맡은 부분
 - Kakao 결제 Api 사용
 - EC2를 이용한 서버 배포
 - CSS 구성
-- 기능별 어울리는 페이지 구성
+- 프론트엔드 웹 페이지 구성
 
 
 ![PMLogo](https://github.com/user-attachments/assets/8a829435-5b24-4cc7-8921-664a891fc2d8)
 
-### 스포츠 매니저(SportsManager)
+### 스포츠 매니저(SportsManager)(2024.03~2024.06)
 비인기 종목 스포츠라도 쉽게 원하는 사람을 매칭하여 운동을 즐길 수 있게 만든 웹 서비스
+- 8인 프로젝트중 맡은 부분
 - Kakao 결제 Api 사용
 - KakaoMap Api 사용
 - CRUD 기능 개발
